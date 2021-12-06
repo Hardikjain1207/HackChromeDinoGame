@@ -1,5 +1,16 @@
 # HackChromeDinoGame
 Code for Chrome Dino Game
+
+
+
+
+
+
+
+
+
+
+
 Command 1 = Runner.instance_.gameOver = ()=> {}
 Command 2 ->:
 function autoPlay()
